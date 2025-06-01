@@ -32,7 +32,7 @@ p.czas {
 
 main {
     position: relative;
-    background-image: url(https://sb987c4zjvju65987b.ct8.pl/dowod_files/dowodnowybg.svg);
+    background-image: url("../images/tlo.png");
     margin: 16px 20px 0px 20px;
     height: 385px;
     display: flex;
